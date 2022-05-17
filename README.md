@@ -12,16 +12,19 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+https://dog.ceo/api/breeds/image/random
+https://api.thecatapi.com/v1/images/search
 
 Summary of Program:
+Gives the user the choice of picking a picture of a dog or cat!
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: Pygame
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ N/A
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
